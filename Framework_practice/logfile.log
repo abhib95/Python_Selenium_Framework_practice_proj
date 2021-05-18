@@ -1,0 +1,93 @@
+2020-11-30 12:26:17,890 :INFO : test_formsubmission :Entering Firstname
+2020-11-30 12:26:17,955 :INFO : test_formsubmission :Entering Email
+2020-11-30 12:26:18,130 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-11-30 12:26:18,426 :INFO : test_formsubmission :Entering Firstname
+2020-11-30 12:26:18,426 :INFO : test_formsubmission :Entering Firstname
+2020-11-30 12:26:18,481 :INFO : test_formsubmission :Entering Email
+2020-11-30 12:26:18,481 :INFO : test_formsubmission :Entering Email
+2020-11-30 12:26:18,655 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-11-30 12:26:18,655 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-11-30 13:02:04,338 :INFO : test_formsubmission :Entering Firstname
+2020-11-30 13:02:04,408 :INFO : test_formsubmission :Entering Email
+2020-11-30 13:02:04,609 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-11-30 13:02:04,992 :INFO : test_formsubmission :Entering Firstname
+2020-11-30 13:02:04,992 :INFO : test_formsubmission :Entering Firstname
+2020-11-30 13:02:05,067 :INFO : test_formsubmission :Entering Email
+2020-11-30 13:02:05,067 :INFO : test_formsubmission :Entering Email
+2020-11-30 13:02:05,278 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-11-30 13:02:05,278 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-01 12:43:03,896 :INFO : test_shopMobile :Nokia Edge
+2020-12-01 12:45:52,261 :INFO : test_shopMobile :Nokia Edge
+2020-12-01 19:23:44,118 :INFO : test_shopMobile :Nokia Edge
+2020-12-01 19:24:57,971 :INFO : test_shopMobile :Nokia Edge
+2020-12-01 20:02:51,115 :INFO : test_shopMobile :Nokia Edge
+2020-12-01 20:05:40,476 :INFO : test_shopMobile :Nokia Edge
+2020-12-01 20:08:43,121 :INFO : test_shopMobile :Nokia Edge
+2020-12-02 17:43:42,111 :INFO : test_formsubmission :Entering Firstname
+2020-12-02 17:43:42,178 :INFO : test_formsubmission :Entering Email
+2020-12-02 17:43:42,361 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-02 17:43:43,315 :INFO : test_formsubmission :Entering Firstname
+2020-12-02 17:43:43,315 :INFO : test_formsubmission :Entering Firstname
+2020-12-02 17:43:43,376 :INFO : test_formsubmission :Entering Email
+2020-12-02 17:43:43,376 :INFO : test_formsubmission :Entering Email
+2020-12-02 17:43:43,562 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-02 17:43:43,562 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-02 17:47:16,723 :INFO : test_formsubmission :Entering Firstname
+2020-12-02 17:47:16,783 :INFO : test_formsubmission :Entering Email
+2020-12-02 17:47:16,966 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-02 17:47:17,456 :INFO : test_formsubmission :Entering Firstname
+2020-12-02 17:47:17,456 :INFO : test_formsubmission :Entering Firstname
+2020-12-02 17:47:17,511 :INFO : test_formsubmission :Entering Email
+2020-12-02 17:47:17,511 :INFO : test_formsubmission :Entering Email
+2020-12-02 17:47:17,686 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-02 17:47:17,686 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-02 17:47:28,473 :INFO : test_shopMobile :Nokia Edge
+2020-12-03 13:28:12,477 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:28:12,553 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:28:12,736 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:28:13,288 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:28:13,288 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:28:13,344 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:28:13,344 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:28:13,522 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:28:13,522 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:31:17,283 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:31:17,343 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:31:17,521 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:31:18,436 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:31:18,436 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:31:18,492 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:31:18,492 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:31:18,660 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:31:18,660 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:33:58,144 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:33:58,221 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:33:58,410 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:33:59,066 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:33:59,066 :INFO : test_formsubmission :Entering Firstname
+2020-12-03 13:33:59,122 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:33:59,122 :INFO : test_formsubmission :Entering Email
+2020-12-03 13:33:59,299 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:33:59,299 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2020-12-03 13:34:08,457 :INFO : test_shopMobile :Nokia Edge
